@@ -12,7 +12,7 @@ This repository contains the full code and analysis accompanying the project _So
 
 The model is trained to solve the time-dependent Schrödinger equation (TDSE) using only the physical laws governing the system and no explicit supervision. It achieves high accuracy in predicting both coherent and breathing state dynamics.
 
-📝 **You can read the full report [here](https://drive.google.com/uc?export=download&id=1oBU999SUqLR271hPyjj9A6xRiLLZpNmg)**
+📝 **You can read the full report [here](https://hdl.handle.net/2445/222442)**
 
 ---
 
